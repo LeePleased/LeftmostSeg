@@ -1,0 +1,11 @@
+# Ignore dirs:
+__pycache__
+/dataset
+/.idea
+/save
+/logs
+
+# Ignore files:
+.DS_Store
+/eval_*.txt
+conlleval.pl
