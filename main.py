@@ -19,8 +19,8 @@ if __name__ == "__main__":
     parser.add_argument("--check_dir", "-cd", type=str, required=True)
     parser.add_argument("--script_path", "-sp", type=str, required=True)
     parser.add_argument("--random_state", "-rs", type=int, default=0)
-    parser.add_argument("--epoch_num", "-en", type=int, default=20)
-    parser.add_argument("--batch_size", "-bs", type=int, default=16)
+    parser.add_argument("--epoch_num", "-en", type=int, default=100)
+    parser.add_argument("--batch_size", "-bs", type=int, default=8)
 
     parser.add_argument("--word_embedding_dim", "-wed", type=int, default=128)
     parser.add_argument("--label_embedding_dim", "-led", type=int, default=32)
