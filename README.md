@@ -5,7 +5,7 @@ This repo. contains the main implementation of our method.
 
 ## Setup
 
-Two steps. Firstly, create a folder named "dataset" (containing train.txt, dev.txt, and test.txt)
+Two steps. Firstly, create a folder named "dataset" (containing {train, dev, & test}.txt)
 and the data format is
 ```
 中      NR
