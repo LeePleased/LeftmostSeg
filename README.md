@@ -1,7 +1,7 @@
 # Leftmost Segment Determination for Chunking
 
 In NAACL-2021, we introduce a fast and effective approach for sequence segmentation tasks (e.g., Chinese POS tagging).
-This repo. contains the main implementation of our method.
+This repo. contains the main implementation of our [paper](https://arxiv.org/abs/2104.07217).
 
 ## Setup
 
