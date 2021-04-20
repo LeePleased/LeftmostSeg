@@ -35,7 +35,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py \
 @inproceedings{li-etal-2021-neural,
     title = "Neural Sequence Segmentation as Determining the Leftmost Segments",
     author = "Li, Yangming and Liu, Lemao and Yao, Kaisheng",
-    booktitle = "Proceedings of the 2021 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    booktitle = "Proceedings of the 2021 Conference of the North {A}merican Chapter of the Association for Computational Linguistics",
     publisher = "Association for Computational Linguistics",
 }
 ```
